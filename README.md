@@ -4,8 +4,8 @@
 ### 运行依赖
 本脚本主要依赖与Pillow库
 
-'''shell
+```shell
 
 pip install pillow
 
-'''
+```
